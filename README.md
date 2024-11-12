@@ -1,6 +1,6 @@
- # VIRTUAL MACHINE CREATION IN LINUX
+ # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
   ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+       To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
     Explain about the Experiment.
 
